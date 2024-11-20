@@ -1,0 +1,39 @@
+/*******************TAG SELECTORS***************/
+h1{
+    font-style: italic;
+    color: blueviolet;
+}
+
+img{
+    background-color: aquamarine;
+    border-style: dashed;
+}
+
+/*****************CLASS SELECTORS****************/
+
+.face{
+    border-radius: 20px;
+    background-color: beige;
+}
+
+.para{
+    font-style: oblique;
+}
+
+.long{
+    font-size: large;
+}
+
+/*clss selectors can be used on more tags like <p>,<div>,<button>
+/*2 class selectors can be declared in a single tag using a whitespace
+
+/*****************ID SELECTORS******************/
+
+/*it can be used only once on whole page and it has the highest priority among default configs and external style configs.*/
+
+#heading{
+    background-color: black;
+    font-variant: small-caps;
+}
+
+

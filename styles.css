@@ -1,0 +1,17 @@
+body{
+    background-color: #eeeeee;
+}
+/*bg-color priority order is:Inline->Internal->External*/
+ hr{
+    background-color: #eaf6f6;
+    border-style: dashed; 
+    border-width: 1px;  
+    height: 2px;
+    width:30%;
+ }
+ h1{
+    color:#66bfbf;
+ }
+ h3{
+    color:#66bfbf;
+ }
